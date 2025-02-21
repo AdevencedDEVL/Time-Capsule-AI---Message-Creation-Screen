@@ -1,5 +1,8 @@
 # Time Capsule AI - Message Creation Screen
 
+![OIG224](https://github.com/user-attachments/assets/523b1a50-8347-4fc0-adc4-ac4f3798ccae)
+![OIG2244](https://github.com/user-attachments/assets/b2bf55eb-f11c-4bb0-800c-7c54decfa3c8)
+
 A minimalist, intuitive interface for users to create and schedule personal time capsule messages to their future selves, enhanced with AI-powered suggestions for more meaningful content.
 Clean message composer with text formatting options and support for voice/video recording, featuring an AI assistant sidebar that provides writing prompts and emotional context
 Date/time selector with preset options (1 month, 1 year, 5 years) and custom date picking, displayed as an interactive timeline
